@@ -718,6 +718,7 @@ button {
 .scrollup:hover {
     background: var(--container-color);
     opacity: 1;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff;
 }
 
 
